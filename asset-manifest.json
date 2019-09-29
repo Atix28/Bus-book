@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Bus-book/static/css/main.c6281679.chunk.css",
+    "main.js": "/Bus-book/static/js/main.aafcbc41.chunk.js",
+    "main.js.map": "/Bus-book/static/js/main.aafcbc41.chunk.js.map",
+    "runtime-main.js": "/Bus-book/static/js/runtime-main.75a1f762.js",
+    "runtime-main.js.map": "/Bus-book/static/js/runtime-main.75a1f762.js.map",
+    "static/css/2.126430be.chunk.css": "/Bus-book/static/css/2.126430be.chunk.css",
+    "static/js/2.fba94769.chunk.js": "/Bus-book/static/js/2.fba94769.chunk.js",
+    "static/js/2.fba94769.chunk.js.map": "/Bus-book/static/js/2.fba94769.chunk.js.map",
+    "index.html": "/Bus-book/index.html",
+    "precache-manifest.61efa55327fb48b396c5e641149c8a16.js": "/Bus-book/precache-manifest.61efa55327fb48b396c5e641149c8a16.js",
+    "service-worker.js": "/Bus-book/service-worker.js",
+    "static/css/2.126430be.chunk.css.map": "/Bus-book/static/css/2.126430be.chunk.css.map",
+    "static/css/main.c6281679.chunk.css.map": "/Bus-book/static/css/main.c6281679.chunk.css.map",
+    "static/media/notifications.css": "/Bus-book/static/media/notification.c0d3c94c.eot"
+  }
+}
